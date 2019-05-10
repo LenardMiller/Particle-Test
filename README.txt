@@ -7,6 +7,8 @@ Commands:
 3 - create 1000 particles
 4 - create 10,000 particles
 
+Top left is framerate
+Top right in the number of particles in existance
 
 To run:
 download whole folder
